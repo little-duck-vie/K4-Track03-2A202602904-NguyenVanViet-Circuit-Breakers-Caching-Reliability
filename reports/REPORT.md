@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Văn Việt — MSV 2A202602904  **Commit:**   **Điểm tự động:** 84 / 88 
+**Họ tên / nhóm:** Nguyễn Văn Việt — MSV 2A202602904  **Commit:** c49b856  **Điểm tự động:** 84 / 88 
 
 > Số liệu lấy từ `reports/gameday/*.json` (seed 25), `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json`.
 > Starter `gameday.yaml` giữ nguyên phần `client:`; tôi kiểm tra lại trên 5 seed (1, 2, 3, 7, 25) — 6/6 băng PASS ở cả 5 seed.
